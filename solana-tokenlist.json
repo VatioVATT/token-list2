@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd309981c8eb1ca07d711e342bbb9718296ec1bf4fd57da3a6e7e6ad12b35279
-size 173846871
+{
+  "chainId": 101,
+  "address": "Afud8Fg25yxURevVDmzZFH4GeCksnRNgLoWA6qwfrLxc",
+  "symbol": "VATT",
+  "name": "Vatio",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/TU_USUARIO/token-list/main/assets/mainnet/Afud8Fg25yxURevVDmzZFH4GeCksnRNgLoWA6qwfrLxc/logo.png",
+  "extensions": {
+    "website": "https://vatio.xyz",
+    "twitter": "https://twitter.com/vatiovatt"
+  }
+}
